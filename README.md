@@ -34,7 +34,7 @@ Contributions to this project are welcome. If you find any issues or have any su
 
 
 <a href ="https://github.com/adithyanraj03/Custom-Layered-Neural-Network/blob/master/LICENSE">License:<a>
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more information.
 
 Acknowledgements:
 This project is inspired by the concepts of neural networks and their applications in robotics. Special thanks to the authors and contributors of relevant research papers and online resources.
