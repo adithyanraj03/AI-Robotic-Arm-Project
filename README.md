@@ -1,5 +1,4 @@
 # AI-Robotic-Arm-Project
-AI Robotic Arm Project
 
 This repository contains the implementation of an AI Robotic Arm project that utilizes neural networks for controlling the arm's movements. The project aims to create an intelligent robotic arm capable of performing various tasks by learning from labeled data using neural networks. The implementation includes Arduino coding for interfacing with the robotic arm hardware and CPP/HPP files for neural network training and control.
 
