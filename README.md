@@ -40,3 +40,4 @@ Acknowledgements:
 This project is inspired by the concepts of neural networks and their applications in robotics. Special thanks to the authors and contributors of relevant research papers and online resources.
 
 Please ensure that you have the necessary dependencies, hardware, and Arduino board set up before running the project.
+
