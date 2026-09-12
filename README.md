@@ -41,3 +41,4 @@ This project is inspired by the concepts of neural networks and their applicatio
 
 Please ensure that you have the necessary dependencies, hardware, and Arduino board set up before running the project.
 
+
